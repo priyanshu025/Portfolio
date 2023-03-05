@@ -1,0 +1,7 @@
+.portfolioContent{
+    height: fit-content;
+}
+
+.box1 img{
+    object-fit: contain;
+}

@@ -1,0 +1,11 @@
+.component-container{
+    text-align: justify; 
+} 
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:28px;
+    height:30px;
+    width:100%;
+    /* background:#999; */
+}
