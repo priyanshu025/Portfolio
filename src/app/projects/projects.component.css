@@ -2,6 +2,20 @@
     height: fit-content;
 }
 
-.box1 img{
+/* .box1 img{
     object-fit: contain;
+} */
+
+.image{
+    height: 150px;
+    overflow: hidden;
+    margin-top: 30px;
+}
+.image img{
+    height: auto;
+    width: 100%;
+    object-fit: contain;
+}
+.card-body{
+    margin-top: 0px;
 }
